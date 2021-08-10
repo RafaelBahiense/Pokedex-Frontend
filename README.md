@@ -37,7 +37,7 @@ This is an web application with which lots of people can track their Pokédex co
 [css]: https://www.w3schools.com/css/
 [es6]: https://262.ecma-international.org/6.0/
 [react]: https://reactjs.org/
-[Project repo]: https://github.com/RafaelBahiense/Pokedex"
+[Project repo]: https://github.com/RafaelBahiense/Pokedex
 
 
 ## How to run
