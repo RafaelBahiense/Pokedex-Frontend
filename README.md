@@ -43,8 +43,8 @@ This is an web application with which lots of people can track their Pokédex co
 ## How to run
 
 1. Clone this repository
-2. Clone the [Backend repository]
-3. Follow instructions [to run the Backend]
+2. Clone the [Frontend repository]
+3. Follow instructions [to run the Frontend]
 4. Install dependencies
 ```bash
 npm i
